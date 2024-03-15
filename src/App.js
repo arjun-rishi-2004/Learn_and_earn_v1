@@ -1,10 +1,12 @@
+import React from 'react'
+import Login from './Login'
 
 function App() {
   return (
-    <div>
-      Initial Structure
-      </div>
+	<div>
+		<Login/>
+	</div>
   )
 }
 
-export default App;
+export default App
